@@ -1,12 +1,13 @@
 # Node.js Image Upload with Cloudinary using Multer and Fetch
 
-This is a simple Node.js project that demonstrates how to upload images to Cloudinary using the Multer middleware and the Fetch API. Cloudinary is a cloud-based image and video management service that allows you to store, manipulate, optimize, and deliver images and videos at scale.
+- This is a simple Node.js project that demonstrates how to upload images to Cloudinary using the Multer middleware and the Fetch API. 
 
-Installation
-To run this project, you'll need to have Node.js installed on your machine. You can download it from the official website at https://nodejs.org/.
+- Cloudinary is a cloud-based image and video management service that allows you to store, manipulate, optimize, and deliver images and videos at scale.
 
+# Installation
+- To run this project, you'll need to have Node.js installed on your machine. 
 Clone this repository to your local machine.
-Run `npm install` to install the required dependencies.
+Run ``npm install`` to install the required dependencies.
 Usage
 Before you can use this project, you'll need to set up a Cloudinary account and obtain your API credentials. You can sign up for a free account at https://cloudinary.com/.
 
